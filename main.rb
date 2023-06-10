@@ -1,5 +1,5 @@
 require_relative 'maquina-turing-universal'
-require_relative 'codificadas/mt0-codificada'
+require_relative 'codificadas/mt1-codificada'
 
 entrada = linker + "$" + codificacao_cadeia
 mt = MTU.new
